@@ -8,13 +8,13 @@ export default defineConfig({
   plugins: [vue()],
   resolve: {
     alias: {
-      "@": fileURLToPath(new URL("./src", import.meta.url)),
+      "@": fileURLToPath(new URL("./src", import.meta.url))
     },
   },
   build: {
     target: "modules",
     outDir: "dist",
     assetsDir: "assets",
-    minify: "terser",
+    minify: "terser"
   },
 });
