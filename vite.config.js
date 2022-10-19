@@ -13,7 +13,7 @@ export default defineConfig({
   },
   build: {
     target: "modules",
-    outDir: "docs",
+    outDir: "dist",
     assetsDir: "assets",
     minify: "terser",
   },
