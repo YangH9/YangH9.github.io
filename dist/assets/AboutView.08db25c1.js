@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as a,a as i}from"./index.7b457f65.js";const n={},o={class:"about"},t=[i("h1",null,"This is an about page",-1)];const r=e(n,[["render",function(e,i){return s(),a("div",o,t)}],["__file","D:/Project/mine/minesweeper/src/views/AboutView.vue"]]);export{r as default};
