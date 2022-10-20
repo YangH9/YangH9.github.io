@@ -1,7 +1,7 @@
 # minesweeper
 扫雷
 
-git subtree push --prefix dist origin example
+git subtree push --prefix dist origin dist
 
 This template should help get you started developing with Vue 3 in Vite.
 
