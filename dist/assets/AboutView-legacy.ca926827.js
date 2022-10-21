@@ -1,0 +1,1 @@
+System.register([ "./index-legacy.70222f1c.js" ], (function (e, t){"use strict";let n, s, r, u;return{ setters:[ e=>{n=e._, s=e.o, r=e.c, u=e.b} ], execute:function (){const t={}, c={ class:"about" }, i=[ u("h1", null, "This is an about page", -1) ];e("default", n(t, [ [ "render", function (e, t){return s(), r("div", c, i)} ] ]))} }}))
