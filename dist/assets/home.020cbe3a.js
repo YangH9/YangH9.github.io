@@ -1,1 +1,0 @@
-import{g as s,o as a,c as t,a as e,b as n,t as o,u as r}from"./index.d97b0477.js";const u={__name:"home",setup(u){const E=s().proxy.getEnv,d=E.VITE_BASE_URL,l=E.MODE,_=E.VITE_TITLE;return(s,u)=>(a(),t("div",null,[e(" 棋盘 "),n("div",null,o(r(d))+"、"+o(r(l))+"、"+o(r(_)),1)]))}};export{u as default};
