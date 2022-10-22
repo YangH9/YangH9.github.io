@@ -1,1 +1,0 @@
-import{g as s,o as a,c as e,a as t,b as n,t as o,u as r}from"./index.ee3992f6.js";const u={__name:"home",setup(u){const E=s().proxy.getEnv,l=E.VITE_BASE_URL,_=E.MODE,d=E.VITE_TITLE;return(s,u)=>(a(),e("div",null,[t(" 首页 "),n("div",null,o(r(l))+"、"+o(r(_))+"、"+o(r(d)),1)]))}};export{u as default};
