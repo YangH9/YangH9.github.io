@@ -1,0 +1,1 @@
+import{g as a,o as s,c as e,a as o,b as t,t as n,u as r}from"./index.a56a266a.js";const u={__name:"home",setup(u){const E=a().proxy.getEnv,l=E.VITE_BASE_URL,m=E.MODE,_=E.VITE_TITLE;return(a,u)=>(s(),e("div",null,[o(" 扫雷home "),t("div",null,n(r(l))+"、"+n(r(m))+"、"+n(r(_)),1)]))}};export{u as default};
