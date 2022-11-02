@@ -1,0 +1,1 @@
+import{_ as a}from"./Breadcrumb.f75e2301.js";import{g as s,o as e,c as r,a as t,b as n,d as o,t as d,u as i}from"./index.6bf11ab4.js";const c={class:"container"},m={__name:"index",setup(m){const u=s().proxy.getEnv,E=u.VITE_BASE_URL,_=u.MODE,f=u.VITE_TITLE;return(s,m)=>(e(),r("div",c,[t(a),n(" 首页 "),o("div",null,d(i(E))+"、"+d(i(_))+"、"+d(i(f)),1)]))}};export{m as default};

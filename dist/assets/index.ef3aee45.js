@@ -1,1 +1,0 @@
-import{o as a,c as s,w as e,_ as r,a as t,b as o}from"./index.c68e49e3.js";import{_ as n}from"./Breadcrumb.478ba5f1.js";const m={__name:"index",setup:m=>(m,u)=>{const c=r;return a(),s(c,null,{default:e((()=>[t(n),o(" 链接 ")])),_:1})}};export{m as default};
