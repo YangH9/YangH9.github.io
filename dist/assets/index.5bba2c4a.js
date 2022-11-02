@@ -1,1 +1,0 @@
-import{a4 as a,o as s,c as e,w as n,_ as t,a as o}from"./index.1b8ae294.js";const r=a({},[["render",function(a,r){const u=t;return s(),e(u,null,{default:n((()=>[o(" 资源 ")])),_:1})}]]);export{r as default};
