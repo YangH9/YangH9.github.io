@@ -1,1 +1,0 @@
-import{_ as a}from"./Breadcrumb.f75e2301.js";import{o as s,c as e,a as o,b as r}from"./index.6bf11ab4.js";const t={class:"container"},i={__name:"index",setup:i=>(i,m)=>(s(),e("div",t,[o(a),r(" 关于 ")]))};export{i as default};
