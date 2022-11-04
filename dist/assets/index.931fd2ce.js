@@ -1,1 +1,0 @@
-import{_ as a,a as s}from"./Breadcrumb.cbf0662b.js";import{H as e}from"./Header.ec77146b.js";import{o as r,c as t,w as o,a as n,b as d,d as c}from"./index.1b00690a.js";const l={class:"container"},m={__name:"index",setup:m=>(m,u)=>{const f=a;return r(),t(f,null,{default:o((()=>[n(e),n(f,null,{default:o((()=>[d("div",l,[n(s),c(" 链接 ")])])),_:1})])),_:1})}};export{m as default};
