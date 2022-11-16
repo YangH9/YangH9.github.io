@@ -1,1 +1,0 @@
-import"./chunk-35be327b.js";import{a as s}from"./chunk-7b5fb426.js";import{_ as n,o,b as t,w as a,e as r}from"./index.js";const e={},u=r("div",null," CSS蓝胖子 ",-1);const c=n(e,[["render",function(n,r){const e=s;return o(),t(e,null,{default:a((()=>[u])),_:1})}]]);export{c as default};
