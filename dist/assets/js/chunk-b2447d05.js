@@ -1,0 +1,1 @@
+import"./chunk-c61d263a.js";import{a as s}from"./chunk-4598b22f.js";import{_ as n,o as t,b as a,w as o,e as r}from"./index.js";const e={},u=r("div",null," 扫雷setting ",-1);const c=n(e,[["render",function(n,r){const e=s;return t(),a(e,null,{default:o((()=>[u])),_:1})}]]);export{c as default};
