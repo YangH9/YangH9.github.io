@@ -1,0 +1,1 @@
+import"./chunk-cdb6cc2b.js";import{a}from"./chunk-40101d94.js";import{_ as s,o as c,b as t,w as n,Y as o,Z as d,e as r}from"./index.js";const e={},u=(a=>(o("data-v-c85c0a3b"),a=a(),d(),a))((()=>r("div",null," CSS蓝胖子 ",-1)));const i=s(e,[["render",function(s,o){const d=a;return c(),t(d,null,{default:n((()=>[u])),_:1})}],["__scopeId","data-v-c85c0a3b"]]);export{i as default};
