@@ -1,1 +1,0 @@
-import"./chunk-0d393e2f.js";import{a}from"./chunk-0e7ca817.js";import{_ as s,o as t,b as e,w as n,W as o,X as d,e as c}from"./index.js";const r={},u=(a=>(o("data-v-e068bdc3"),a=a(),d(),a))((()=>c("div",null,"扫雷setting",-1)));const i=s(r,[["render",function(s,o){const d=a;return t(),e(d,null,{default:n((()=>[u])),_:1})}],["__scopeId","data-v-e068bdc3"]]);export{i as default};
