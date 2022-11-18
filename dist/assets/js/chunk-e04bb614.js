@@ -1,1 +1,0 @@
-import"./chunk-0d393e2f.js";import{a}from"./chunk-0e7ca817.js";import{_ as s,o,b as t,w as e,W as n,X as r,e as d}from"./index.js";const c={},f=(a=>(n("data-v-630f6560"),a=a(),r(),a))((()=>d("div",null,"扫雷home",-1)));const u=s(c,[["render",function(s,n){const r=a;return o(),t(r,null,{default:e((()=>[f])),_:1})}],["__scopeId","data-v-630f6560"]]);export{u as default};
