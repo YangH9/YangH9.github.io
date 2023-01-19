@@ -1,0 +1,1 @@
+import{e}from"./index.js";const t=function(t,r){var o=e({},t);return Object.keys(r).forEach((function(e){var t=o[e];if(!t)throw new Error("not have ".concat(e," prop"));t.type||t.default?t.default=r[e]:t.def?t.def(r[e]):o[e]={type:t,default:r[e]}})),o};export{t as i};
