@@ -1,0 +1,1 @@
+import{d as a,k as s,h as e,w as t,C as n,B as o,m}from"./index.js";const r={class:"container"},l={__name:"npm",setup:l=>(l,p)=>{const c=n;return a(),s("div",r,[e(o,{overlayShow:""}),e(c,{title:"npm常用命令",class:"mb10",hoverable:!0},{default:t((()=>[m(" npm常用命令 ")])),_:1})])}};export{l as default};
