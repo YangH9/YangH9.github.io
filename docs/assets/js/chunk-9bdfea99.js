@@ -1,1 +1,0 @@
-import{d as s,k as a,h as e,w as t,C as o,B as r,m as l}from"./index.js";const n={class:"container"},c={__name:"css",setup:c=>(c,d)=>{const i=o;return s(),a("div",n,[e(r,{overlayShow:""}),e(i,{title:"CSS",class:"mb10",hoverable:!0},{default:t((()=>[l(" CSS ")])),_:1})])}};export{c as default};

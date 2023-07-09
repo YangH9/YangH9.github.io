@@ -1,0 +1,1 @@
+import{c as a,i as s,f as e,w as t,C as r,B as o,k as l}from"./index.js";const n={class:"container"},c={__name:"regular",setup:c=>(c,i)=>{const u=r;return a(),s("div",n,[e(o,{overlayShow:""}),e(u,{title:"正则基础知识",class:"mb10",hoverable:!0},{default:t((()=>[l(" 正则基础知识 ")])),_:1})])}};export{c as default};

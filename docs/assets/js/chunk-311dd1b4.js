@@ -1,1 +1,0 @@
-import{d as a,k as s,h as e,w as t,C as o,B as n,m as r}from"./index.js";const l={class:"container"},m={__name:"command",setup:m=>(m,c)=>{const d=o;return a(),s("div",l,[e(n,{overlayShow:""}),e(d,{title:"常用命令汇总",class:"mb10",hoverable:!0},{default:t((()=>[r(" 常用命令汇总 ")])),_:1})])}};export{m as default};

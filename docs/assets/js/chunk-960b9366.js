@@ -1,0 +1,1 @@
+import{c as a,i as s,f as e,w as t,C as o,B as r,k as c}from"./index.js";const i={class:"container"},l={__name:"ECMAScript",setup:l=>(l,n)=>{const C=o;return a(),s("div",i,[e(r,{overlayShow:""}),e(C,{title:"ECMASCRIPT",class:"mb10",hoverable:!0},{default:t((()=>[c(" ECMASCRIPT ")])),_:1})])}};export{l as default};

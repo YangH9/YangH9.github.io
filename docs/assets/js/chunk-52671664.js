@@ -1,1 +1,0 @@
-import{d as a,k as s,h as t,w as n,C as e,B as o,m as c}from"./index.js";const i={class:"container"},r={__name:"function",setup:r=>(r,l)=>{const u=e;return a(),s("div",i,[t(o,{overlayShow:""}),t(u,{title:"function",class:"mb10",hoverable:!0},{default:n((()=>[c(" function ")])),_:1})])}};export{r as default};
