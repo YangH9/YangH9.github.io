@@ -1,1 +1,0 @@
-import{c as a,i as s,f as e,w as t,C as o,B as r,k as l}from"./index.js";const n={class:"container"},c={__name:"GrayHead",setup:c=>(c,i)=>{const d=o;return a(),s("div",n,[e(r,{overlayShow:""}),e(d,{title:"灰色头像生成器",class:"mb10",hoverable:!0},{default:t((()=>[l(" 灰色头像生成器 ")])),_:1})])}};export{c as default};
