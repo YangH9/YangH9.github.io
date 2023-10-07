@@ -1,0 +1,1 @@
+import{b as a,d as s,i as t,f as e,w as r,B as i,k as o}from"./index.js";const c={class:"container"},l={__name:"git",setup:l=>(l,n)=>{const d=a("a-card");return s(),t("div",c,[e(i,{overlayShow:""}),e(d,{title:"ECMAScript",class:"mb_2",hoverable:!0},{default:r((()=>[o(" ECMAScript ")])),_:1})])}};export{l as default};

@@ -1,0 +1,1 @@
+import{b as a,d as s,i as e,f as t,w as r,B as o,k as d}from"./index.js";const l={class:"container"},n={__name:"GrayHead",setup:n=>(n,c)=>{const i=a("a-card");return s(),e("div",l,[t(o,{overlayShow:""}),t(i,{title:"灰色头像生成器",class:"mb_2",hoverable:!0},{default:r((()=>[d(" 灰色头像生成器 ")])),_:1})])}};export{n as default};

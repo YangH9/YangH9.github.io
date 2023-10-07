@@ -1,0 +1,1 @@
+import{b as a,d as s,i as e,f as t,w as o,B as r,k as c}from"./index.js";const i={class:"container"},l={__name:"basic",setup:l=>(l,n)=>{const d=a("a-card");return s(),e("div",i,[t(r,{overlayShow:""}),t(d,{title:"入门级基础知识",class:"mb_2",hoverable:!0},{default:o((()=>[c(" 入门级基础知识 ")])),_:1})])}};export{l as default};
