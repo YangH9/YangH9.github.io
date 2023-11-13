@@ -7185,7 +7185,7 @@ var e="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";t.expor
                * @copyright    2013-2023 Photon Storm Ltd.
                * @license      {@link https://opensource.org/licenses/MIT|MIT License}
                */
-var e="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",i=new Uint8Array(256),s=0;s<64;s++)i[e.charCodeAt(s)]=s;t.exports=function(t){var e,s,n,r,o=(t=t.substr(t.indexOf(",")+1)).length,a=.75*o,h=0;"="===t[o-1]&&(a--,"="===t[o-2]&&a--);for(var l=new ArrayBuffer(a),u=new Uint8Array(l),c=0;c<o;c+=4)e=i[t.charCodeAt(c)],s=i[t.charCodeAt(c+1)],n=i[t.charCodeAt(c+2)],r=i[t.charCodeAt(c+3)],u[h++]=e<<2|s>>4,u[h++]=(15&s)<<4|n>>2,u[h++]=(3&n)<<6|63&r;return l}},78417:(t,e,i)=>{
+var e="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",i=new Uint8Array(256),s=0;s<e.length;s++)i[e.charCodeAt(s)]=s;t.exports=function(t){var e,s,n,r,o=(t=t.substr(t.indexOf(",")+1)).length,a=.75*o,h=0;"="===t[o-1]&&(a--,"="===t[o-2]&&a--);for(var l=new ArrayBuffer(a),u=new Uint8Array(l),c=0;c<o;c+=4)e=i[t.charCodeAt(c)],s=i[t.charCodeAt(c+1)],n=i[t.charCodeAt(c+2)],r=i[t.charCodeAt(c+3)],u[h++]=e<<2|s>>4,u[h++]=(15&s)<<4|n>>2,u[h++]=(3&n)<<6|63&r;return l}},78417:(t,e,i)=>{
 /**
                * @author       Richard Davey <rich@photonstorm.com>
                * @copyright    2013-2023 Photon Storm Ltd.
