@@ -1,1 +1,0 @@
-import{b as a,d as s,i as t,f as n,w as o,B as e,h as l}from"./index.js";import{_ as u}from"./chunk-0eda88c6.js";const i={class:"container"},r=l("div",null,"音乐播放器规划中",-1),d={__name:"index",setup:l=>(l,d)=>{const c=a("a-layout-content");return s(),t("div",i,[n(e),n(c,null,{default:o((()=>[n(u,{url:"/joy/tool/listen"},{default:o((()=>[r])),_:1})])),_:1})])}};export{d as default};
