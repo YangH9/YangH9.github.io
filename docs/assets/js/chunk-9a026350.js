@@ -1,1 +1,0 @@
-import{_ as a,b as s,d as t,e,w as n,p as d,q as o,h as l}from"./index-3f88dd9d.js";const r={},u=(a=>(d("data-v-501a6e0d"),a=a(),o(),a))((()=>l("div",null,"扫雷home",-1)));const c=a(r,[["render",function(a,d){const o=s("a-layout-content");return t(),e(o,null,{default:n((()=>[u])),_:1})}],["__scopeId","data-v-501a6e0d"]]);export{c as default};
