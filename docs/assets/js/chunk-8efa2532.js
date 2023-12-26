@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-91906689.js";import{b as s,d as e,i as r,f as t,w as o,k as c}from"./index-ec17fcef.js";const l={class:"container"},n={__name:"regular",setup:n=>(n,i)=>{const d=s("a-card");return e(),r("div",l,[t(a,{overlayShow:""}),t(d,{title:"正则基础知识",class:"mb_2",hoverable:!0},{default:o((()=>[c(" 正则基础知识 ")])),_:1})])}};export{n as default};
