@@ -1,1 +1,0 @@
-import{B as a}from"./chunk-315508bf.js";import{b as s,d as e,i as t,f as o,w as r,k as c}from"./index-395d6d5e.js";const i={class:"container"},n={__name:"basic",setup:n=>(n,l)=>{const d=s("a-card");return e(),t("div",i,[o(a,{overlayShow:""}),o(d,{title:"入门级基础知识",class:"mb_2",hoverable:!0},{default:r((()=>[c(" 入门级基础知识 ")])),_:1})])}};export{n as default};
