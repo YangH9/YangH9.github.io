@@ -1,1 +1,0 @@
-import{d as e,N as t,e as r,c as s}from"./index-d0Vo91xU.js";const o={__name:"RouterViewBox",props:{url:String},setup(o){const u=o;return(o,a)=>{const n=e("RouterView");return u.url===o.$route.path?t(o.$slots,"default",{key:0}):(r(),s(n,{key:1}))}}};export{o as _};
