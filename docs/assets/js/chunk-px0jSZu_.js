@@ -1,1 +1,0 @@
-import{_ as a,c as t,w as s,d as n,e,p as o,q as d,h as c}from"./index-fG95CQP0.js";const l={},r=(a=>(o("data-v-230b9341"),a=a(),d(),a))((()=>c("div",null,"扫雷setting",-1)));const u=a(l,[["render",function(a,o){const d=n("a-layout-content");return e(),t(d,null,{default:s((()=>[r])),_:1})}],["__scopeId","data-v-230b9341"]]);export{u as default};
