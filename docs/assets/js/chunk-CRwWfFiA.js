@@ -1,1 +1,0 @@
-import{_ as a,d as s,w as t,e as n,f as e,s as o,v as d,k as l}from"./index-JPhKPVMV.js";const r={},u=(a=>(o("data-v-230b9341"),a=a(),d(),a))((()=>l("div",null,"扫雷setting",-1)));const c=a(r,[["render",function(a,o){const d=n("a-layout-content");return e(),s(d,null,{default:t((()=>[u])),_:1})}],["__scopeId","data-v-230b9341"]]);export{c as default};
