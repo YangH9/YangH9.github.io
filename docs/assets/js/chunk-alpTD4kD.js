@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-L0Mg5PTz.js";import{l as s,h as e,w as n,e as t,f as o,n as r}from"./index-Z49B5034.js";const m={class:"container"},l={__name:"npm",setup:l=>(l,c)=>{const i=t("a-card");return o(),s("div",m,[e(a,{overlayShow:""}),e(i,{title:"npm常用命令",class:"mb_2",hoverable:!0},{default:n((()=>[r(" npm常用命令 ")])),_:1})])}};export{l as default};
