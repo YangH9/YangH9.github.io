@@ -1,1 +1,0 @@
-import{B as a}from"./chunk-ClEsoP45.js";import{l as s,h as e,w as o,e as t,f as r,n}from"./index-uQgFcSIO.js";const c={class:"container"},l={__name:"command",setup:l=>(l,m)=>{const i=t("a-card");return r(),s("div",c,[e(a,{overlayShow:""}),e(i,{title:"常用命令汇总",class:"mb_2",hoverable:!0},{default:o((()=>[n(" 常用命令汇总 ")])),_:1})])}};export{l as default};
