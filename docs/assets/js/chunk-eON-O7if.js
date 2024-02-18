@@ -1,1 +1,0 @@
-import{_ as a,d as s,w as t,e,f as n,s as d,v as o,k as c}from"./index-aQTVJEq8.js";const l={},r=(a=>(d("data-v-57c317ed"),a=a(),o(),a))((()=>c("div",null,"扫雷setting",-1)));const u=a(l,[["render",function(a,d){const o=e("a-layout-content");return n(),s(o,null,{default:t((()=>[r])),_:1})}],["__scopeId","data-v-57c317ed"]]);export{u as default};
