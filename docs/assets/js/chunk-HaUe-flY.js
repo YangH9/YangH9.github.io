@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-FerxP0uk.js";import{l as s,h as e,w as t,e as o,f as r,n as l}from"./index-IGDB-ngh.js";const n={class:"container"},c={__name:"html",setup:c=>(c,m)=>{const i=o("a-card");return r(),s("div",n,[e(a,{overlayShow:""}),e(i,{title:"HTML",class:"mb_2",hoverable:!0},{default:t((()=>[l(" HTML ")])),_:1})])}};export{c as default};
