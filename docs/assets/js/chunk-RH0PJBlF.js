@@ -1,1 +1,0 @@
-import{B as e}from"./chunk-FerxP0uk.js";import{l as a,h as s,f as t,e as o}from"./index-IGDB-ngh.js";const r={class:"container"},n={__name:"timeWheel",setup:n=>(n,i)=>{const l=o("a-card");return t(),a("div",r,[s(e,{overlayShow:""}),s(l,{title:"时间轮盘",hoverable:!0})])}};export{n as default};

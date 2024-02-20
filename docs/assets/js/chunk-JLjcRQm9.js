@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-rd-jeiw2.js";import{j as s,f as e,w as t,d as r,e as o,l as c}from"./index-FcuYHEHw.js";const l={class:"container"},n={__name:"ECMAScript",setup:n=>(n,i)=>{const d=r("a-card");return o(),s("div",l,[e(a,{overlayShow:""}),e(d,{title:"ECMASCRIPT",class:"mb_2",hoverable:!0},{default:t((()=>[c(" ECMASCRIPT ")])),_:1})])}};export{n as default};
