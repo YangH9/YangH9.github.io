@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-ShBAYAJJ.js";import{j as s,f as e,w as t,d as o,e as r,l}from"./index-m_znLs6p.js";const n={class:"container"},c={__name:"html",setup:c=>(c,m)=>{const d=o("a-card");return r(),s("div",n,[e(a,{overlayShow:""}),e(d,{title:"HTML",class:"mb_2",hoverable:!0},{default:t((()=>[l(" HTML ")])),_:1})])}};export{c as default};

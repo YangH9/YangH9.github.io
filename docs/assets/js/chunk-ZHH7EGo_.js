@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-ShBAYAJJ.js";import{j as s,f as t,w as e,d as r,e as o,l as c}from"./index-m_znLs6p.js";const i={class:"container"},l={__name:"git",setup:l=>(l,n)=>{const d=r("a-card");return o(),s("div",i,[t(a,{overlayShow:""}),t(d,{title:"ECMAScript",class:"mb_2",hoverable:!0},{default:e((()=>[c(" ECMAScript ")])),_:1})])}};export{l as default};
