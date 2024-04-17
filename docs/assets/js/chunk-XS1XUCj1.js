@@ -1,1 +1,0 @@
-import{B as s}from"./chunk-4o7s-Zg0.js";import{l as a,h as e,w as o,e as t,f as r,n}from"./index-YjESPv0X.js";const c={class:"container"},l={__name:"css",setup:l=>(l,i)=>{const m=t("a-card");return r(),a("div",c,[e(s,{overlayShow:""}),e(m,{title:"CSS",class:"mb_2",hoverable:!0},{default:o((()=>[n(" CSS ")])),_:1})])}};export{l as default};
