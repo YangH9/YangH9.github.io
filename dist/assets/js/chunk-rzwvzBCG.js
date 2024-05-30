@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-q4t4kylM.js";import{b as e,e as r,l as s,h as t}from"./index-wLPZfbiK.js";const o={class:"container"},n={__name:"lotteryDraw",setup:n=>(n,l)=>{const c=e("a-card");return r(),s("div",o,[t(a,{overlayShow:""}),t(c,{title:"抽奖",hoverable:!0})])}};export{n as default};
