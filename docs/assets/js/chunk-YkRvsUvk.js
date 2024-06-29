@@ -1,0 +1,1 @@
+import{B as e}from"./chunk-2AArtBTF.js";import{b as a,e as s,l as t,h as o}from"./index-6fjTrNVo.js";const r={class:"container"},n={__name:"timeWheel",setup:n=>(n,i)=>{const l=a("a-card");return s(),t("div",r,[o(e,{overlayShow:""}),o(l,{title:"时间轮盘",hoverable:!0})])}};export{n as default};
