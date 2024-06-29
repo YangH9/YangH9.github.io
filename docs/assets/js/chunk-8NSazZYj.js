@@ -1,1 +1,0 @@
-import{B as a}from"./chunk-61c3gbcj.js";import{b as s,e,l as t,h as o,w as r,n}from"./index-aPLkIDdj.js";const c={class:"container"},l={__name:"abacus",setup:l=>(l,i)=>{const m=s("a-card");return e(),t("div",c,[o(a,{overlayShow:""}),o(m,{title:"算盘",class:"mb_2",hoverable:!0},{default:r((()=>[n(" 算盘说明介绍 ")])),_:1})])}};export{l as default};
