@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-FaOvEi4i.js";import{l as s,e,w as o,d as r,o as t,n}from"./index-1usR9Qgq.js";const l={class:"container"},c={__name:"gray-head",setup:c=>(c,d)=>{const i=r("a-card");return t(),s("div",l,[e(a,{overlayShow:""}),e(i,{title:"灰色头像生成器",class:"mb_2",hoverable:!0},{default:o((()=>[n(" 灰色头像生成器 ")])),_:1})])}};export{c as default};
