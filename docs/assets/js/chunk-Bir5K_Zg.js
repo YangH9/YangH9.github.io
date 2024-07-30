@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-RLn36mID.js";import{l as o,e,w as s,d as r,o as t,n as l}from"./index-s2N0ouJF.js";const n={class:"container"},c={__name:"meridian-flow-clock",setup:c=>(c,i)=>{const d=r("a-card");return t(),o("div",n,[e(a,{overlayShow:""}),e(d,{title:"子午流注钟表",hoverable:!0},{default:s((()=>[l(" meridian-flow-clock ")])),_:1})])}};export{c as default};
