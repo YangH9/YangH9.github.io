@@ -1,0 +1,1 @@
+import{_ as a,b as s,w as t,d as n,o,p as e,q as d,h as c}from"./index-kgKo4seT.js";const b={},l=(a=>(e("data-v-bc21b3b4"),a=a(),d(),a))((()=>c("div",null,"扫雷home",-1)));const r=a(b,[["render",function(a,e){const d=n("a-layout-content");return o(),s(d,null,{default:t((()=>[l])),_:1})}],["__scopeId","data-v-bc21b3b4"]]);export{r as default};
