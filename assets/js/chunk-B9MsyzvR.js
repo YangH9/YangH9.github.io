@@ -1,1 +1,0 @@
-import{B as a}from"./chunk-DUaOSH9-.js";import{j as s,a as e,w as r,r as t,o,l as c}from"./index-Byc1IwTD.js";const l={class:"container"},n={__name:"ecma-script",setup:n=>(n,i)=>{const m=t("a-card");return o(),s("div",l,[e(a,{overlayShow:""}),e(m,{title:"ECMASCRIPT",class:"mb_2",hoverable:!0},{default:r((()=>[c(" ECMASCRIPT ")])),_:1})])}};export{n as default};
