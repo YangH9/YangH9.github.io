@@ -228,9 +228,9 @@ import { message } from 'ant-design-vue'
 
 const dayjs = inject('dayjs')
 
-const dateFormatKey = 'YYYY-ww'
+const dateFormatKey = 'YYYY-w'
 
-const fistWeek = ref(`${dayjs().year()}-34`)
+const fistWeek = ref(`${dayjs().year()}-${dayjs().week()}`)
 
 const curriculumDefault = { teacher: '', course: '', weeks: [], classTime: [], room: '', alarm: 30 }
 const classTimeDefaultItem = { name: '', startTime: '08:00', endTime: '09:00' }
@@ -296,7 +296,9 @@ const generateSchedule = () => {
       return item.weeks
         .map(week => {
           const dayTime = dayjs(
-            dayjs(fistWeek.value, dateFormatKey).diff(dayjs.duration({ weeks: -week, days: -weekday }))
+            dayjs(fistWeek.value, dateFormatKey).diff(
+              dayjs.duration({ weeks: -week + 1, days: -weekday + dayjs().startOf('year').day() - 1 })
+            )
           )
           const obj = {
             start: `DTSTART:${dayjs(`${dayTime.format('YYYY-MM-DD')} ${startTime}`).format('YYYYMMDDTHHmm00')}\n`,
