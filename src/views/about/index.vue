@@ -67,21 +67,9 @@ const userList = [
   { label: 'CodePen', title: 'https://codepen.io/yangh9', href: 'https://codepen.io/yangh9' },
   { label: '知乎', title: 'https://www.zhihu.com/people/yangh9', href: 'https://www.zhihu.com/people/yangh9' },
   { label: '抖音', title: 'https://v.douyin.com/iLbA41x1', href: 'https://v.douyin.com/iLbA41x1' },
-  {
-    label: '快手',
-    title: 'https://v.kuaishou.com/f/Y7oSeQ6Ze',
-    href: 'https://v.kuaishou.com/f/Y7oSeQ6Ze'
-  },
-  {
-    label: '哔哩哔哩',
-    title: 'https://space.bilibili.com/492362541',
-    href: 'https://space.bilibili.com/492362541'
-  },
-  {
-    label: '哔哩哔哩Live',
-    title: 'https://live.bilibili.com/22069552',
-    href: 'https://live.bilibili.com/22069552'
-  }
+  { label: '快手', title: 'https://v.kuaishou.com/f/Y7oSeQ6Ze', href: 'https://v.kuaishou.com/f/Y7oSeQ6Ze' },
+  { label: '哔哩哔哩', title: 'https://space.bilibili.com/492362541', href: 'https://space.bilibili.com/492362541' },
+  { label: '哔哩哔哩Live', title: 'https://live.bilibili.com/22069552', href: 'https://live.bilibili.com/22069552' }
 ]
 
 // 建站时间
@@ -91,6 +79,7 @@ const time1 = dayjs('2022/10/19')
 const nowTime = ref(dayjs())
 
 const list = [
+  { title: 'Yang昜工具箱（H5版）', href: '/toolbox/' },
   { title: '自制低代码表单设计器（开发中）', href: '/form-preview/' },
   { title: '自制日历订阅(节假日、24节气)', href: '/ChinaCalendar/' },
   { title: '不会百度么', href: 'https://yangh9.github.io/baidu/' },

@@ -78,6 +78,7 @@ const storeList = [
   { name: 'YangH9.github.io', desc: '站点' },
   { name: 'y', desc: '站点' },
   { name: 'ChinaCalendar', desc: '日历' },
+  { name: 'toolbox', desc: 'Yang昜工具箱' },
   { name: 'calendar', desc: '日历历史' },
   { name: 'offline-map', desc: '离线地图' },
   { name: 'China_area', desc: '行政区划数据' },
