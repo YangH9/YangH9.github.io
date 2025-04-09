@@ -253,7 +253,9 @@ const resoutcesList = [
       { title: 'Prettier', href: 'https://prettier.io/', favicon: 'icon.png' },
       { title: 'tiny富文本', href: 'https://www.tiny.cloud/', favicon: '' },
       { title: '各类颜色生成器', href: 'https://gradients.app/', favicon: '' },
-      { title: '雪碧图定位器', href: 'http://www.spritecow.com/', favicon: 'assets/9/favicon.ico' }
+      { title: '雪碧图定位器', href: 'http://www.spritecow.com/', favicon: 'assets/9/favicon.ico' },
+      { title: '各种特效UI组件', href: 'https://inspira-ui.com/', favicon: '' },
+      { title: 'class生成css', href: 'https://www.tailwindcss.cn/', favicon: '' }
     ]
   },
   {
